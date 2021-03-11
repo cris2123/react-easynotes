@@ -1,0 +1,9 @@
+{
+  "notes": [
+    { 
+      "id": 1,
+      "title": "first note",
+      "content": "Esta nota es para probar json server" 
+    }
+  ]
+}
