@@ -1,10 +1,22 @@
 import React from 'react';
+import Note from '../components/Note';
 
 
-const NoteList = () => {
+
+const NoteList = ({notes, onNoteSelected}) => {
+    
+    const renderedNotes = notes.map( (note) => {
+        return (
+            <Note 
+                key={note.id}
+                onNoteSelect={onNoteSelected}
+                note={note}
+            />
+        )
+    })
     return ( 
-        <div>
-            Esto es una lista de notas
+        <div className="ui relaxed divided list">
+            {renderedNotes}
         </div>
     )
 }

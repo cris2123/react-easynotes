@@ -1,9 +1,60 @@
 {
   "notes": [
-    { 
+    {
       "id": 1,
-      "title": "first note",
-      "content": "Esta nota es para probar json server" 
+      "title": "First Note",
+      "content": "Esta nota es para probar json server no se si funcionara pero parece que si sirve el guardar todas las cosas como si fueran faciles",
+      "created": "2020-01-02",
+      "modified": "Sun Mar 14 2021  12:15:50 AM"
+    },
+    {
+      "id": 2,
+      "title": "Second Note",
+      "content": "Esta nota es para probar json server con una lista probando la vida de la luz,gfgyyffyftgfgdrg probando la vida",
+      "created": "2020-01-02",
+      "modified": "Sun Mar 14 2021  12:15:58 AM"
+    },
+    {
+      "title": "Tercera nota",
+      "content": "probando la tercera nota a ver si me actualiza bien",
+      "created": "Sun Mar 14 2021 11:33:06 AM",
+      "modified": "Sun Mar 14 2021  11:40:45 AM",
+      "id": 3
+    },
+    {
+      "title": "Cuarta Nota",
+      "content": "Probando la cuarta nota a ver si lo que pienso es correcto no se si mejor",
+      "created": "Sun Mar 14 2021 11:33:52 AM",
+      "modified": "Sun Mar 14 2021  11:40:10 AM",
+      "id": 4
+    },
+    {
+      "title": "Quitan Nota",
+      "content": "probando quel a quinta nota se cierre correctamente",
+      "created": "Sun Mar 14 2021 11:35:20 AM",
+      "modified": "Sun Mar 14 2021 11:35:20 AM",
+      "id": 5
+    },
+    {
+      "title": "Sexta Nota",
+      "content": "Probando la nota",
+      "created": "Sun Mar 14 2021 11:36:27 AM",
+      "modified": "Sun Mar 14 2021 11:36:27 AM",
+      "id": 6
+    },
+    {
+      "title": "Septima Nota",
+      "content": "Probando que la septima nota es lo correcto",
+      "created": "Sun Mar 14 2021 11:37:34 AM",
+      "modified": "Sun Mar 14 2021 11:37:34 AM",
+      "id": 7
+    },
+    {
+      "title": "Octava Nota",
+      "content": "Probando que la octava nota es una realidad",
+      "created": "Sun Mar 14 2021 11:42:32 AM",
+      "modified": "Sun Mar 14 2021 11:42:32 AM",
+      "id": 8
     }
   ]
 }
